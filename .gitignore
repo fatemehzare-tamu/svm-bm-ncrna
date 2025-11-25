@@ -1,0 +1,4 @@
+# Word temporary files
+~$*.docx
+~*.tmp
+*.tmp
