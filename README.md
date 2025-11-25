@@ -12,7 +12,7 @@ The goal of this project is to compare the performance of:
 - **AdaBoost with SVM weak learners**
 - **Random-subset SVM ensemble**
 
-All methods are trained under identical subsampling constraints (very small subsets of size N = 10–) to evaluate robustness and generalization.
+All methods are trained under identical subsampling constraints (very small subsets of size N = 10) to evaluate robustness and generalization.
 
 
 ## 📊 Dataset
