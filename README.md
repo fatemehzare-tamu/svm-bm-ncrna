@@ -8,9 +8,10 @@ This repository contains the full implementation of the SVM-BM (Support Vector M
 
 The goal of this project is to compare the performance of:
 
-- **SVM-BM **
+- **SVM-BM**
 - **AdaBoost with SVM weak learners**
 - **Random-subset SVM ensemble**
+
 All methods are trained under identical subsampling constraints (very small subsets of size N = 10–) to evaluate robustness and generalization.
 
 
@@ -23,9 +24,9 @@ The original dataset is from:
 https://www.csie.ntu.edu.tw/%7Ecjlin/libsvmtools/datasets/
 
 The dataset includes paired RNA features (folding free energy, nucleotide frequencies, sequence lengths).  
-Due to size limitations, **raw data files are not stored in this repository**.
 
-To reproduce experiments, download the dataset from:
+
+
 
 
 
